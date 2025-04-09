@@ -8,7 +8,7 @@ He is currently pursuing a Bachelor's degree in Electronic Information Engineeri
 lihuanyuee@163.com
 
 #### Education
-理学硕士，智能、互联和自动驾驶汽车，华威大学，2025.09-2026.09 (预计)
+理学硕士，智能、互联和自动驾驶汽车，华威大学，2025.09-2026.09 (预计).\
 M.S., Smart, Connected and Autonomous Vehicles, University of Warwick, 2025.09-2026.09 (expected).\
 .\
 工学学士，电子信息工程，中国石油大学（华东），2021.09-2025.06(预计).\
